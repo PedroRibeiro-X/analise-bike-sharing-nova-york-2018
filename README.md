@@ -52,3 +52,25 @@ Um dos principais aprendizados foi a importância da experiência do usuário: a
 ## 👨‍💻 Autor
 
 Projeto desenvolvido como parte dos meus estudos em Análise de Dados, com foco em Power BI e visualização de informações.
+
+## 🖼️ Visualização do Dashboard
+
+O projeto foi desenvolvido no Power BI e está organizado em diferentes páginas para facilitar a exploração dos indicadores e a interpretação dos dados.
+
+### Capa do projeto
+![Capa do Projeto Bikes NY](imagens/capa-projeto.png)
+
+### Análise de 2018
+![Análise de 2018](imagens/analise-2018.png)
+
+Esta página apresenta os indicadores gerais, como total de viagens, duração média e quantidade de bicicletas, além de gráficos sobre usuários, estações e evolução das viagens.
+
+### Perfil dos usuários e movimentação
+![Perfil dos usuários e movimentação](imagens/perfil-e-movimentacao.png)
+
+Esta visão explora informações demográficas e padrões de movimentação entre estações, incluindo viagens por idade, gênero e períodos de utilização.
+
+### Análise geral
+![Análise geral](imagens/analise-geral.png)
+
+A página consolidada apresenta os indicadores gerais, a distribuição das viagens por período, as estações mais movimentadas e as conexões entre pontos de origem e destino.
